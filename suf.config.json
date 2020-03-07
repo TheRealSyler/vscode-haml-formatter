@@ -7,7 +7,6 @@
     "icon": "resources/images/icon.ico",
     "vscode": "syler.vscode-haml-formatter",
     "badges": [
-      "circleci circleci",
       "vscV vscode",
       "vscD vscode",
       "vscI vscode",
